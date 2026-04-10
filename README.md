@@ -2,13 +2,13 @@
 
 ## Requirements
 
-Called party maybe a human, an IVR, a voice bot, a voicemail system.
+Called party maybe a human, an IVR, a voice bot, or a voicemail system.
 
 Live agent and AI engine should hear or capture what the called party says from the beginning of the answered outbound call.
 
-AI engine can hear only the speech from the audio from the called party and not from the live agent.
+The AI engine can hear only the audio from the called party and not from the live agent.
 
-Called party and live agent can talk to each other.
+The called party and the live agent can talk to each other.
 
 ## Overview
 
