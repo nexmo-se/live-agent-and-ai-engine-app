@@ -1,0 +1,21 @@
+{
+  "name": "live-agent-and-ai-engine-app",
+  "version": "1.0.0",
+  "description": "When streaming from an outbound PSTN call, both live agent and AI engine should hear all audio from the beginning of the call",
+  "license": "Apache-2.0",
+  "author": "Tony Chan",
+  "type": "commonjs",
+  "main": "live-agent-and-ai-engine-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vonage/server-sdk": "^3.27.0",
+    "axios": "^1.14.0",
+    "body-parser": "^2.2.2",
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1"
+  }
+}
