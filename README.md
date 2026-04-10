@@ -67,7 +67,7 @@ https://yyyyyyyy.ngrok.xxx/event</br>
 - Enable "RTC (In-app voice & messaging)", and set the corresponding webhook URL.<br>
 Note: If you are using ngrok for this sample application, the webhook URL looks like:<br>
 https://yyyyyyyy.ngrok.xxx/rtc</br>
-**Make sure RTC webhook is enabled so DTMFs from live agent to called party work, and for optional PSTN #2 calls recordings.**<br>
+**Make sure RTC webhook is enabled so DTMFs from live agent to called party work**, and for optional outbound PSTN (aka PSTN #2) calls recordings.<br>
 
 - Click on [Generate public and private key] if you did not yet create or want new ones, save the private key file in this application folder as .private.key (leading dot in the file name).</br>
 **IMPORTANT**: Do not forget to click on [Save changes] at the bottom of the screen if you have created a new key set.</br>
