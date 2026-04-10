@@ -64,7 +64,7 @@ Enable Voice
 Note: If you are using ngrok for this sample application, the answer URL and event URL look like:</br>
 https://yyyyyyyy.ngrok.xxx/answer</br>
 https://yyyyyyyy.ngrok.xxx/event</br>
-- Enable "RTC (In-app voice & messaging)", and set the corresponding webhook URL.<br>
+- Enable "RTC (In-app voice & messaging)" webhook, and set the corresponding webhook URL.<br>
 Note: If you are using ngrok for this sample application, the webhook URL looks like:<br>
 https://yyyyyyyy.ngrok.xxx/rtc</br>
 **Make sure RTC webhook is enabled so DTMFs from live agent to called party work**, and for optional outbound PSTN (aka PSTN #2) calls recordings.<br>
