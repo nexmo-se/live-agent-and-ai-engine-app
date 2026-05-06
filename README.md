@@ -12,11 +12,11 @@ The called party and the live agent can talk to each other.
 
 ## Overview
 
-
 TO BE WRITTEN
 
-and SOLUTION ARCHITECTURE DIAGRAM TO BE DRAWN
+## Solution Diagram
 
+See solution diagram **live-agent-and-ai-engine.png**.
 
 ## Set up
 
